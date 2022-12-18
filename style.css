@@ -5,6 +5,10 @@ body{
     colour:#644536 
 }
 
+ul{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #926738;
+}
 #headshot img{
     width: 10%;
     border-radius: 80%;
